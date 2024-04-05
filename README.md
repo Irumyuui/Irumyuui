@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+
+This is Irumyuui.
+
+### Github Analytics
+
+![Irumyuui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irumyuui)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irumyuui&layout=compact)
 
 <!--
 **Irumyuui/Irumyuui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
