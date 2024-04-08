@@ -5,6 +5,8 @@ This is an Irumyuui.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irumyuui)
 ![Irumyuui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irumyuui&show_icons=true&count_private=true&line_height=40)
 
+![Count](https://views.whatilearened.today/views/github/Irumyuui/Irumyuui.svg)
+
 <!--
 **Irumyuui/Irumyuui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
