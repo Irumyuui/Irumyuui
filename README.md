@@ -1,23 +1,10 @@
 ## Hi there 👋
 
 This is an Irumyuui.
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irumyuui)
-![Irumyuui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irumyuui&show_icons=true&count_private=true&line_height=40)
 
-![Count](https://views.whatilearened.today/views/github/Irumyuui/Irumyuui.svg)
--->
-<!--
-**Irumyuui/Irumyuui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github-readme-stats-one-bice.vercel.app/api?username=Irumyuui&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" target="_blank">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Irumyuui&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Irumyuui's GitHub stats" height="185px">
+</a>
+<a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Irumyuui&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Irumyuui&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Top Langs" height="185px">
+</a>
